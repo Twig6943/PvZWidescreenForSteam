@@ -10,9 +10,9 @@ How to actually use this:
 
 4 - Extract the .7z you downloaded earlier
 
-6 - Put your bass.dll into the pvz folder
+5 - Put your bass.dll into the pvz folder
 
-5 - Now all you need to do is click play from steam, have fun!
+6 - Now all you need to do is click play from steam, have fun!
 
 (This script was compiled with [Batch Compiler](https://sourceforge.net/projects/batch-compiler/))
 ![](https://github.com/Twig6943/PvZWidescreenSteamLauncher/blob/main/Plants_VS_Zombies_Logo.png)
