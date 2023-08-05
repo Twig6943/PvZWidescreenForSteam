@@ -2,13 +2,15 @@ A launcher for the PvZ Widescreen to be playable through Steam.
 
 How to actually use this:
 
-1.Install pvz through Steam
+1.Install Plants vs Zombies through Steam
 
 2.Open file location of the game
 
-3.Delete everything in there except bass.dll otherwise the game wont open up
+3.Delete everything in there except bass.dll
 
 4.Unzip the .7z you downloaded earlier
+
+6.Put your bass.dll into the pvz folder
 
 5.Now all you need to do is click play from steam, have fun!
 
