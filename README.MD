@@ -8,7 +8,7 @@ How to actually use this:
 
 3 - Delete everything in there except bass.dll
 
-4 - Unzip the .7z you downloaded earlier
+4 - Extract the .7z you downloaded earlier
 
 6 - Put your bass.dll into the pvz folder
 
