@@ -15,4 +15,4 @@ How to actually use this:
 5 - Now all you need to do is click play from steam, have fun!
 
 (This script was compiled with [Batch Compiler](https://sourceforge.net/projects/batch-compiler/))
-![](https://static.wikia.nocookie.net/logopedia/images/0/01/Pvz_logo_stacked_rgb.png/revision/latest?cb=20120408101754)
+![](https://github.com/Twig6943/PvZWidescreenSteamLauncher/blob/main/Plants_VS_Zombies_Logo.png)
