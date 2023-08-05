@@ -6,7 +6,7 @@ How to actually use this:
 
 2.Open file location of the game
 
-3.Delete everything in there
+3.Delete everything in there except bass.dll otherwise the game wont open up
 
 4.Unzip the .7z you downloaded earlier
 
