@@ -6,13 +6,15 @@ How to actually use this:
 
 2 - Open file location of the game
 
-3 - Delete everything in there except bass.dll
+3 - Extract the .7z you downloaded earlier
 
-4 - Extract the .7z you downloaded earlier
+4 - Drag them onto the game files
 
-5 - Put your bass.dll into the pvz folder
+5 - Now all you need to do is click play from steam, have fun!
 
-6 - Now all you need to do is click play from steam, have fun!
+This repo should have been a fork, but here is the source code for PvZWidescreen; https://github.com/HenryJk/PvZWidescreen
 
-(This script was compiled with [Batch Compiler](https://sourceforge.net/projects/batch-compiler/))
+ I'm not really sure how to open source this project's files without forking the original repo (which we should have done, blame Twig for that) but there you go...
+
+(This script was compiled with Batch Compiler)
 ![](https://github.com/Twig6943/PvZWidescreenSteamLauncher/blob/main/Plants_VS_Zombies_Logo.png)
