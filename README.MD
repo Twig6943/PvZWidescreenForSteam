@@ -14,7 +14,9 @@ How to actually use this:
 
 This repo should have been a fork, but here is the source code for PvZWidescreen; https://github.com/HenryJk/PvZWidescreen
 
- I'm not really sure how to open source this project's files without forking the original repo (which we should have done, blame Twig for that) but there you go...
+ "I'm not really sure how to open source this project's files without forking the original repo (which we should have done, blame Twig for that) but there you go..."
+
+-ardishco
 
 (This script was compiled with Batch Compiler)
 ![](https://github.com/Twig6943/PvZWidescreenSteamLauncher/blob/main/Plants_VS_Zombies_Logo.png)
