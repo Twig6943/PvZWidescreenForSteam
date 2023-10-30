@@ -20,3 +20,7 @@ This repo should have been a fork, but here is the source code for PvZWidescreen
 
 (This script was compiled with Batch Compiler)
 ![](https://github.com/Twig6943/PvZWidescreenSteamLauncher/blob/main/Plants_VS_Zombies_Logo.png)
+
+# Can I get achievements with this?
+Yes you can, I got some when using this myself.
+- ardishco
